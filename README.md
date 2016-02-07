@@ -10,7 +10,7 @@ RM works for the next two months.
 General Administration branch works for office. :cat:
 ## Table
 Header 1 | Header 2
--------------------
+---------|---------
 One | Two
 Three | Four
-------------------
+
