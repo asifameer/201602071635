@@ -1,6 +1,6 @@
 # 201602071635
 Board Meeting Feb 2016
-## Accounts /play crickets
+## Accounts
 ### December 2015
 Accounts for the month of December 2015. We have worked with :heart: to make this site a success.
 ## Engineering
